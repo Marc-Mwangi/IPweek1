@@ -16,3 +16,6 @@ p {
     text-align: center;
     color: ivory;
 }
+a:visited {
+    color:orange;
+}
