@@ -61,7 +61,10 @@ body {
     border-radius: 5px;
     cursor: pointer;
 }
-a:visited {
-    color: blue;
+a:visited{
+    color: black;
+}
+a:hover {
+    color: orange;
 }
 
