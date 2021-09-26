@@ -4,3 +4,11 @@ body {
 #slides {
     align-items: center;
 }
+h1 {
+    color: ivory;
+    display: inline;
+}
+h3 {
+    color: orange;
+    display: inline;
+}
