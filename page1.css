@@ -1,5 +1,5 @@
 body {
-    background-image: url(background.jpg);
+    background-image: url(background1.jpg);
 }
 #slides {
     align-items: center;
@@ -11,4 +11,8 @@ h1 {
 h3 {
     color: orange;
     display: inline;
+}
+p {
+    text-align: center;
+    color: ivory;
 }
